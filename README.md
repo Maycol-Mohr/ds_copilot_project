@@ -34,8 +34,22 @@ Architecture:
 - updateProduct(PUT): http://localhost:8080/api/products/11
 - deleteProduct(DELETE): http://localhost:8080/api/products/11
 
+
+
 - getAllCategories(GET): http://localhost:8080/api/categories
 - getCategoryById(GET): http://localhost:8080/api/categories/1
 - createCategory(POST): http://localhost:8080/api/categories
 - updateCategory(PUT): http://localhost:8080/api/categories/11
 - deleteCategory(DELETE): http://localhost:8080/api/categories/11
+
+
+
+
+
+# UML diagram
+
+
+
+
+<img width="1024" height="1024" alt="UML" src="https://github.com/user-attachments/assets/eec4fdf9-46c9-410d-8508-e3f5be86b072" />
+
