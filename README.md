@@ -9,6 +9,7 @@
 - JUnit
 - Copilot AI
 - Postman
+- IntelliJ IDE
 
 
 # Two example classes: Product and Category.
